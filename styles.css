@@ -1,0 +1,15 @@
+html, body{
+    height: 100%;
+}
+
+.scoreboard{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
